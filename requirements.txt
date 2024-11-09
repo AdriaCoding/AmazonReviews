@@ -1,0 +1,8 @@
+uvicorn 
+aiofiles
+fastapi 
+debugpy 
+beautifulsoup4 
+google-cloud-bigquery
+selenium
+webdriver-manager

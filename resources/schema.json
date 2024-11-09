@@ -1,0 +1,62 @@
+[
+    {
+        "name": "country",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "asin",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "brand",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "review_date",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "author",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "verified",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "helpful",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "title",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "body",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "rating",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "url",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "scraped_on",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    }
+]
